@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+background-color: #EDEDE9;
+margin: 0;
+}
+
+h1 {
+    background-color: #E3D5CA;
+    text-align: center;
+    color: #a69c92;
+    padding: 20px;
+    margin: 10px auto;
+}
+
+ul {
+    max-width: 100%;
+    background-color: #F5EBE0;
+    text-align: center;
+    padding: 100px;
+    margin: 10px auto;
+    
+}
+
+ul li {
+    display: inline-block;
+    margin: 20px auto
+}
+
+ul li a {
+    text-decoration: none;
+    background-color: #E3D5CA;
+    padding: 20px;
+    color: #787067;
+}
+
+a:hover {
+    color: black;
+}
